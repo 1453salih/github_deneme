@@ -34,7 +34,8 @@ export default function HomePage() {
                     padding: 4,
                 }}
             >
-                <Typography variant="h2" component="h1">
+                {/*Task1 tamamlandı */}
+                <Typography variant="h2" component="h1" sx={{fontSize:"70px"}}>
                     Welcome to My Website
                 </Typography>
                 <Typography variant="h5" component="h2" sx={{ mt: 2 }}>
