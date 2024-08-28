@@ -35,7 +35,8 @@ export default function HomePage() {
                 }}
             >
                 {/*Task1 tamamlandı */}
-                <Typography variant="h2" component="h1" sx={{fontSize:"70px"}}>
+                {/*Task2 tamamlandı */}
+                <Typography variant="h2" component="h1" sx={{fontSize:"70px",color:"red"}}>
                     Welcome to My Website
                 </Typography>
                 <Typography variant="h5" component="h2" sx={{ mt: 2 }}>
